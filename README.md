@@ -1,2 +1,2 @@
 # projeto2
-código projeto 2
+código parcial projeto 2
